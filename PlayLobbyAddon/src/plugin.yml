@@ -1,0 +1,5 @@
+name: PlayLobbyAddon
+version: 1.0
+author: M4Twaily
+main: de.m4twaily.pla.Main
+description: Lobby Addon for PlayWithMe
